@@ -1,4 +1,4 @@
-FROM felddy/foundryvtt:release
+FROM felddy/foundryvtt:13
 
 ARG FOUNDRY_PASSWORD
 ARG FOUNDRY_USERNAME
